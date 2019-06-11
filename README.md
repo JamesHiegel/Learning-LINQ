@@ -2,6 +2,10 @@
 
 This repository will contain the programs I create as I learn how to use LINQ to interact with objects, databases and XML data.
 
+## Contents
+
+[Basic Query](Basic-Query/README.md)
+
 ## Authors
 
 * **Olivia Chiu** - great course on learning how to use LINQ [LINQ with C# Essential Training](https://www.linkedin.com/learning/linq-with-c-sharp-essential-training)
