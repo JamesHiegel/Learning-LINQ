@@ -10,4 +10,4 @@ This program demonstrates how to use a LINQ query on a list of objects, to retur
 
 * *James Hiegel*
 
-[Return to top](./README.md)
+[Return to top](../README.md)
